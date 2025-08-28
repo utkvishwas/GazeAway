@@ -7,7 +7,16 @@
 > **Take care of your eyes with intelligent screen break reminders**
 
 GazeAway is a smart Windows application that helps reduce eye strain by reminding you to take regular breaks from your screen. Perfect for developers, office workers, students, and anyone who spends long hours in front of a computer.
+---
 
+<p align="center">
+
+<img width="100%" alt="Banner image" src="https://github.com/user-attachments/assets/3d1a4669-eae8-485a-ba50-2235f50c4986" />
+
+<br/>
+
+   
+---
 > **⚠️ Note**: Windows Defender may flag the executable as a false positive during development. This is common with PyInstaller-created applications. See [ANTIVIRUS-FALSE-POSITIVE.md](ANTIVIRUS-FALSE-POSITIVE.md) for solutions.
 
 ## ✨ Features
