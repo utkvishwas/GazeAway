@@ -194,7 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 - **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/utkvishwas/GazeAway/issues)
 - **Discussions**: Join the conversation on [GitHub Discussions](https://github.com/utkvishwas/GazeAway/discussions)
-- **Email**: Contact us at support@gazeaway.app
 
 ## 🔄 Version History
 
