@@ -1,0 +1,19 @@
+GazeAway License Agreement
+
+This software is provided "as is" without warranty of any kind, either express or implied.
+
+By installing and using GazeAway, you agree to the following terms:
+
+1. This software is designed to help reduce eye strain by reminding users to take regular breaks from screen time.
+
+2. The software is provided free of charge for personal use.
+
+3. The authors are not responsible for any damages or issues that may arise from the use of this software.
+
+4. You may use this software at your own risk.
+
+5. This software is not intended as a substitute for professional medical advice.
+
+For questions or support, please refer to the project documentation or contact the developers.
+
+Copyright (c) 2024 GazeAway
