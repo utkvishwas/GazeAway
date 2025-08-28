@@ -2,7 +2,16 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](https://windows.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+---
+
+<p align="center">
+
+<img width="100%" alt="Banner image" src="https://github.com/user-attachments/assets/3d1a4669-eae8-485a-ba50-2235f50c4986" />
+
+<br/>
+
+   
+---
 
 > **Take care of your eyes with intelligent screen break reminders**
 
@@ -185,7 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 - **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/utkvishwas/GazeAway/issues)
 - **Discussions**: Join the conversation on [GitHub Discussions](https://github.com/utkvishwas/GazeAway/discussions)
-- **Email**: Contact us at support@gazeaway.app
 
 ## 🔄 Version History
 
