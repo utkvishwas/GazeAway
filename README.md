@@ -2,8 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](https://windows.com)
-[![License]](LICENSE.txt)
-
 ---
 
 <p align="center">
